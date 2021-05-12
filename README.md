@@ -18,6 +18,7 @@ These are some of the technologies and tools I use:
     <img src="https://img.shields.io/badge/-Javascript-yellow?color=2c3e50&logo=javascript&style=flat-square" alt="Javascript"/>
     <img src="https://img.shields.io/badge/-React-yellow?color=2c3e50&logo=react&style=flat-square" alt="React"/>
     <img src="https://img.shields.io/badge/-Bootstrap-yellow?color=2c3e50&logo=bootstrap&style=flat-square" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/-Sass-yellow?color=2c3e50&logo=sass&style=flat-square" alt="Sass"/>
   </li>
   
   <li> ⚙️ 
