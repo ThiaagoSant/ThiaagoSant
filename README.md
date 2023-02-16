@@ -2,7 +2,7 @@
 
 ### Hi there
 
-My name is Thiago Santiago, I am a student of systems analysis and development and front-end and I have been passionate about technology since I was young. I've been improving my skills. A young Brazilian with disposition and courage!
+My name is Thiago and I'm an instructor and front-end developer. Since I was a child, I have been passionate about technology. A young Brazilian with disposition and courage!
 
 [![Linkedin: thiago-santiago](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-santiago/)](https://www.linkedin.com/in/thiago-santiago-b2923a202/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagosantiagoss20@gmail.com)](mailto:thiagosantiagoss20@gmail.com)
